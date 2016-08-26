@@ -1,0 +1,1 @@
+Prva moja Android aplikacija s kojom sam se igrao oko osnovnih funkcionalnosti.
